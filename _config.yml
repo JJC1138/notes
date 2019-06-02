@@ -5,5 +5,7 @@ twitter_username: JJC1138
 
 markdown: kramdown
 theme: minima
+minima:
+  date_format: "%F"
 plugins:
   - jekyll-feed

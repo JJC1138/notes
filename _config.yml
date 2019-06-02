@@ -9,3 +9,11 @@ minima:
   date_format: "%F"
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
